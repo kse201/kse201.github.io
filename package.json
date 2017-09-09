@@ -1,0 +1,18 @@
+{
+  "name": "kse201.github.io",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kse201/kse201.github.io.git"
+  },
+  "homepage": "https://kse201.github.io",
+  "dependencies": {
+    "remark-cli": "^4.0.0",
+    "remark-lint": "^6.0.1",
+    "remark-preset-lint-markdown-style-guide": "^2.1.1",
+    "remark-preset-lint-recommended": "^3.0.1",
+    "textlint": "^8.2.1",
+    "textlint-rule-preset-japanese": "^1.3.4",
+    "textlint-rule-prh": "^4.0.1"
+  }
+}

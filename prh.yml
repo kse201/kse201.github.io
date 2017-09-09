@@ -1,0 +1,30 @@
+version: 1
+rules:
+
+  # 表現の統一を図る
+  - expected: デフォルト
+    pattern:  ディフォルト
+
+  # patternは複数記述可能 patterns としてもOK
+  - expected: ハードウェア
+    patterns:
+      - ハードウエアー # 正規表現に変換する都合上、より長いものを先に書いたほうがよい
+      - ハードウェアー
+      - ハードウエア
+
+  # 単語境界の区別
+  - expected: js
+  # pattern: "/\b[JjＪｊ][SsＳｓ]\b/g" # と等価 \b が前後に付与される
+    options:
+      wordBoundary: true
+    specs:
+      - from: foo JS bar
+        to:   foo js bar
+      - from: foo altJS bar
+        to:   foo altJS bar
+      # 日本語+単語境界の仕様は自分で調べてね…！
+      - from: 今日もJS祭り
+        to:   今日もjs祭り
+
+  - expected: Java
+    pattern: "/java/I"

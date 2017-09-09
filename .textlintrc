@@ -1,0 +1,11 @@
+{
+  "filters": {},
+  "rules": {
+    "prh": {
+      "rulePaths": [
+        "prh.yml"
+      ]
+    },
+    "preset-japanese": true
+  }
+}
