@@ -4,7 +4,7 @@
   <title><![CDATA[kse201]]></title>
   <link href="http://kse201.github.io/atom.xml" rel="self"/>
   <link href="http://kse201.github.io/"/>
-  <updated>2017-09-10T00:04:06+09:00</updated>
+  <updated>2017-09-16T21:28:44+09:00</updated>
   <id>http://kse201.github.io/</id>
   <author>
     <name><![CDATA[kse201]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[「若手エンジニアの生存戦略」講演行ってみた]]></title>
+    <link href="http://kse201.github.io/blog/2017/09/16/matz-seminar/"/>
+    <updated>2017-09-16T20:48:34+09:00</updated>
+    <id>http://kse201.github.io/blog/2017/09/16/matz-seminar</id>
+    <content type="html"><![CDATA[<p>サポーターズColab主催の<a href="https://supporterzcolab.com/event/141/">まつもとゆきひろ氏　特別講演】若手エンジニアの生存戦略</a>
+を拝聴してきました。</p>
+
+<p>個人的な備忘録として、 三行でまとめます。</p>
+
+<ul>
+<li>報酬は苦痛の対価ではない。我慢を強要する構造や仕組み(&ldquo;死の鎖"と表現していた)を当たり前とせず"空気を読まずに"異議を唱えよう。また、"価値"を生み出すことを考えよう。</li>
+<li>自分を知ること。自分の強みや弱み、得意分野を理解する。それらを最大限発揮できるブルーオーシャンを目指そう。</li>
+<li>エンジニアは、問題を解決するためにコンピュータを使う職種。相手にするのはコンピュータではなく人間であることを忘れてはいけない。また、コンピュータに傅いてはいけない(逆アルファシンドロームと表現していた)</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello Blog]]></title>
