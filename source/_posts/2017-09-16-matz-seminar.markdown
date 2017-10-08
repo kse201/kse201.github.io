@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「若手エンジニアの生存戦略」講演行ってみた"
+title: "若手エンジニアの生存戦略」講演行ってみた"
 date: 2017-09-16 20:48:34 +0900
 comments: true
 categories: matz, seminar
