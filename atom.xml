@@ -4,7 +4,7 @@
   <title><![CDATA[kse201]]></title>
   <link href="http://kse201.github.io/atom.xml" rel="self"/>
   <link href="http://kse201.github.io/"/>
-  <updated>2017-09-16T21:28:44+09:00</updated>
+  <updated>2017-10-08T17:04:03+09:00</updated>
   <id>http://kse201.github.io/</id>
   <author>
     <name><![CDATA[kse201]]></name>
@@ -14,7 +14,59 @@
 
   
   <entry>
-    <title type="html"><![CDATA[「若手エンジニアの生存戦略」講演行ってみた]]></title>
+    <title type="html"><![CDATA[2017 MacBook Pro を一ヶ月間使ってみた感想]]></title>
+    <link href="http://kse201.github.io/blog/2017/10/08/2017-mbp/"/>
+    <updated>2017-10-08T16:29:44+09:00</updated>
+    <id>http://kse201.github.io/blog/2017/10/08/2017-mbp</id>
+    <content type="html"><![CDATA[<p>MacBook Pro (2011　Early)を使ってきましたが、バッテリーの持ちが悪く感じてきたので、MacBook Pro 2017年版のに買い替えました。</p>
+
+<p>その直後に引越がありゴタゴタしていましたが、ようやく落ち着いて来たため感想書いてみます。</p>
+
+<h2>軽くて薄い!</h2>
+
+<ul>
+<li>重量: 約2kg -> 1.3kg</li>
+<li>厚さ: 約2.5 cm ->  1.49 cm</li>
+</ul>
+
+
+<p>となり携帯性が向上しました。
+以前は家の中でさえ持ち運ぶのが億劫と感じていましたが、今は難なくカバンに収納できて持ち運ぶことができるようになりました。</p>
+
+<h2>バッテリーの持ちに感動した!</h2>
+
+<p>前MacBook のバッテリーは6年間での劣化のためかもって3時間しか持たなかったため出先での電源は必須でした。</p>
+
+<p>しかし現MacBookでは3時間の使用でバッテリー消費はおよそ20％。電源確保に困ることはなくなりました。</p>
+
+<h2>キーボードが打ちにくい!</h2>
+
+<p>キーストロークが恐ろしく浅いです。会社ではHHKBを使用していて、そのタッチのつもりでタイプしてしまうので指が痛い&hellip;。
+また、今回はUS配列を選んで見たのですが、</p>
+
+<ul>
+<li>JIS配列の「かな」「英数」キーないため、かな/英数切り替えが面倒</li>
+<li>「caps lock」が「A」の左にある</li>
+</ul>
+
+
+<p>これらはソフトでキーマップをいじってなんとかできました。</p>
+
+<ul>
+<li>「~/`」キーが「1」の左にある</li>
+</ul>
+
+
+<p>これはどうにもできず入力のたびに戸惑っています。</p>
+
+<p>しばらくすればなれると思いますが&hellip;。</p>
+
+<h2>総括: 買い替えてよかった!</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[若手エンジニアの生存戦略」講演行ってみた]]></title>
     <link href="http://kse201.github.io/blog/2017/09/16/matz-seminar/"/>
     <updated>2017-09-16T20:48:34+09:00</updated>
     <id>http://kse201.github.io/blog/2017/09/16/matz-seminar</id>
