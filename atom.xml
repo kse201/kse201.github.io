@@ -4,7 +4,7 @@
   <title><![CDATA[kse201]]></title>
   <link href="http://kse201.github.io/atom.xml" rel="self"/>
   <link href="http://kse201.github.io/"/>
-  <updated>2017-10-08T17:04:03+09:00</updated>
+  <updated>2018-01-03T14:13:00+09:00</updated>
   <id>http://kse201.github.io/</id>
   <author>
     <name><![CDATA[kse201]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[happy_new_year]]></title>
+    <link href="http://kse201.github.io/blog/2018/01/03/happy-new-year/"/>
+    <updated>2018-01-03T14:05:16+09:00</updated>
+    <id>http://kse201.github.io/blog/2018/01/03/happy-new-year</id>
+    <content type="html"><![CDATA[<p>あけましておめでとうございます。</p>
+
+<p>昨年は継続的な投稿という目標が達成できず残念な年でしたが、</p>
+
+<p>今年は飛躍する年にすべく頑張りたいと思います。</p>
+
+<h2>今年の目標</h2>
+
+<ul>
+<li>LPIC Level2 取得する</li>
+<li>LifeHackなツールを自作する</li>
+<li>週1の筋トレを一年間継続する</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[2017 MacBook Pro を一ヶ月間使ってみた感想]]></title>
