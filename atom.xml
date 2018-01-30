@@ -4,7 +4,7 @@
   <title><![CDATA[kse201]]></title>
   <link href="http://kse201.github.io/atom.xml" rel="self"/>
   <link href="http://kse201.github.io/"/>
-  <updated>2018-01-03T14:13:00+09:00</updated>
+  <updated>2018-01-30T21:00:39+09:00</updated>
   <id>http://kse201.github.io/</id>
   <author>
     <name><![CDATA[kse201]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[diary]]></title>
+    <link href="http://kse201.github.io/blog/2018/01/30/diary/"/>
+    <updated>2018-01-30T20:47:32+09:00</updated>
+    <id>http://kse201.github.io/blog/2018/01/30/diary</id>
+    <content type="html"><![CDATA[<p>最近したことをつらつら列挙していきます。</p>
+
+<ul>
+<li>シグナル、UDP受信監視するデーモンの開発
+
+<ul>
+<li>速度重視&amp;メンバー共通言語のためC言語(Goで書きたかった&hellip;)</li>
+<li>UDP マルチキャスト送受信 とくにIPv4/6での実装に関して資料が少なかったため大苦戦</li>
+</ul>
+</li>
+<li>覚えたこと
+
+<ul>
+<li>CMake: Makefileを作成するためのメタmake。実行ファイル、ライブラリを作成したり、テストランナーもできる。</li>
+<li>CUnit: CのxUnit。ただ、結果的にはCMakeのテストランナーを採用。</li>
+<li>Doxygen: Jdocライクにコメント書けばドキュメントを生成してくれるツール。</li>
+<li>clang-format: Cのlinter。コメント行も無慈悲にwrapするためdoxygenと相性悪。設定によりけりだと思うが今回は追求せず。</li>
+</ul>
+</li>
+<li>普段の使用言語(Ruby,js)との違いについて所感
+
+<ul>
+<li>静的型ありのため、コンパイルチェックでのバグ潰しはやりやすい</li>
+<li>文字列操作や直感的なコーディングが出来ず、フラストレーションが溜まった</li>
+<li>ただ、泥臭いこと(アドレス操作、メモリ管理)が「Linuxプログラムやってる感」を感じた。</li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[happy_new_year]]></title>

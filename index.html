@@ -9,9 +9,8 @@
   <meta name="author" content="kse201">
 
   
-  <meta name="description" content="あけましておめでとうございます。 昨年は継続的な投稿という目標が達成できず残念な年でしたが、 今年は飛躍する年にすべく頑張りたいと思います。 今年の目標 LPIC Level2 取得する
-LifeHackなツールを自作する
-週1の筋トレを一年間継続する ">
+  <meta name="description" content="最近したことをつらつら列挙していきます。 シグナル、UDP受信監視するデーモンの開発 速度重視&amp;メンバー共通言語のためC言語(Goで書きたかった&hellip;)
+UDP マルチキャスト送受信 とくにIPv4/6での実装に関して資料が少なかったため大苦戦 覚えたこと CMake: &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -52,6 +51,70 @@ LifeHackなツールを自作する
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2018/01/30/diary/">Diary</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2018-01-30T20:47:32+09:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>最近したことをつらつら列挙していきます。</p>
+
+<ul>
+<li>シグナル、UDP受信監視するデーモンの開発
+
+<ul>
+<li>速度重視&amp;メンバー共通言語のためC言語(Goで書きたかった&hellip;)</li>
+<li>UDP マルチキャスト送受信 とくにIPv4/6での実装に関して資料が少なかったため大苦戦</li>
+</ul>
+</li>
+<li>覚えたこと
+
+<ul>
+<li>CMake: Makefileを作成するためのメタmake。実行ファイル、ライブラリを作成したり、テストランナーもできる。</li>
+<li>CUnit: CのxUnit。ただ、結果的にはCMakeのテストランナーを採用。</li>
+<li>Doxygen: Jdocライクにコメント書けばドキュメントを生成してくれるツール。</li>
+<li>clang-format: Cのlinter。コメント行も無慈悲にwrapするためdoxygenと相性悪。設定によりけりだと思うが今回は追求せず。</li>
+</ul>
+</li>
+<li>普段の使用言語(Ruby,js)との違いについて所感
+
+<ul>
+<li>静的型ありのため、コンパイルチェックでのバグ潰しはやりやすい</li>
+<li>文字列操作や直感的なコーディングが出来ず、フラストレーションが溜まった</li>
+<li>ただ、泥臭いこと(アドレス操作、メモリ管理)が「Linuxプログラムやってる感」を感じた。</li>
+</ul>
+</li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -361,6 +424,10 @@ LifeHackなツールを自作する
 <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2018/01/30/diary/">diary</a>
+      </li>
     
       <li class="post">
         <a href="/blog/2018/01/03/happy-new-year/">happy_new_year</a>
